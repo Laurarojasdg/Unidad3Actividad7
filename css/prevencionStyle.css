@@ -1,0 +1,64 @@
+
+
+.tittle{
+    margin: 25px;
+    padding: 25px;
+    font-size: 90px;
+
+
+    text-align: center;
+    color: rgb(110, 13, 119);
+    font-family: Bradley Hand ITC;
+}
+
+.causas{
+    margin-top: -8px;
+    font-size: 30px;
+
+    text-align: justify;
+    color: black;
+    font-family: Bradley Hand ITC;
+}
+
+.tittle2{
+    margin: 25px;
+    padding: 25px;
+    font-size: 90px;
+   
+    
+    text-align: center;
+    color: rgb(110, 13, 119);
+    font-family: Bradley Hand ITC;
+}
+
+.container{
+    text-align: center;
+    font-family: Bradley Hand ITC;
+    font-size: 30px;
+}
+
+.card{
+    text-align: center;
+}
+
+.tittle3{
+    margin: 25px;
+    padding: 25px;
+    font-size: 90px;
+
+    
+    text-align: center;
+    color: rgb(110, 13, 119);
+    font-family: Bradley Hand ITC;
+}
+
+.tratamiento{
+    margin: 25px;
+    padding: 25px;
+    font-size: 30px;
+
+    
+    text-align: center;
+    color: black;
+    font-family: Bradley Hand ITC;
+}

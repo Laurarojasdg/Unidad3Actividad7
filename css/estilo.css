@@ -1,0 +1,24 @@
+.tittle{
+    margin: 25px;
+    padding: 25px;
+    font-size: 90px;
+
+    
+    text-align: center;
+    color: rgb(110, 13, 119);
+    font-family: Bradley Hand ITC;
+}
+
+.container{
+    margin: 50px;
+    padding: 50px;
+    text-align: justify;
+    font-family: Bradley Hand ITC;
+    font-size: 20px;
+}
+
+.card{
+    text-align: center;
+}
+
+
